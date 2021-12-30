@@ -13,7 +13,7 @@ Carabiner is going to provide a bridge and a tools suite help web2.0 company run
 
 [GameFi](https://carabiner.plus/gamefi)
 [Social](https://carabiner.plus/social)
-[Advertisment](https://carabiner.plus/dvertisment)
+[Advertisment](https://carabiner.plus/advertisment)
 
 
 ### Technology
